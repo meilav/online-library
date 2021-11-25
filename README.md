@@ -10,5 +10,5 @@ DESC:
 
 
 CREDIT: 
-  BackEnd by Me
+  BackEnd by Me.
   FrontEnd by Fadly.
